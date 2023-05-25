@@ -1,8 +1,10 @@
-# fps-meter
+# fps-meter [![](https://badgen.net/npm/v/@schickling/fps-meter)](https://www.npmjs.com/package/@schickling/fps-meter)
 
 Fast and simple FPS meter for React. Renders to a canvas element and uses requestAnimationFrame to update the FPS counter.
 
-![](https://share.cleanshot.com/y7S2FbpP/download)
+<img src='https://share.cleanshot.com/y7S2FbpP/download' style='width: 120px'>
+
+<br />
 
 ### Install
 
