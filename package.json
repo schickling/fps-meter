@@ -1,0 +1,28 @@
+{
+  "name": "@schickling/fps-meter",
+  "version": "0.1.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schickling/fps-meter"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.jsx",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^18.2.0",
+    "@types/react": "^18.2.6",
+    "typescript": "^5.0.4"
+  }
+}
