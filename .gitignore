@@ -1,3 +1,9 @@
 dist
 .DS_Store
 node_modules
+
+/.yarn/*
+!/.yarn/releases
+!/.yarn/patches
+!/.yarn/plugins
+!/.yarn/sdks

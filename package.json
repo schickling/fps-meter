@@ -1,6 +1,6 @@
 {
   "name": "@schickling/fps-meter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "repository": {
     "type": "git",
@@ -19,10 +19,10 @@
   "peerDependencies": {
     "react": "*"
   },
-  "dependencies": {},
   "devDependencies": {
-    "react": "^18.2.0",
     "@types/react": "^18.2.6",
+    "react": "^18.2.0",
     "typescript": "^5.0.4"
-  }
+  },
+  "packageManager": "yarn@3.6.1"
 }
